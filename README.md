@@ -43,9 +43,11 @@ I original instances was two. But the processing speed was low. Therefore, I res
 
 
 # Summary
-After the project, I realized there are two advantages of using AWS.\
+After the project, I realized there are two advantages of using AWS.
+
 __1. I don't need to set up a complicated configuration:__\
-I had set up Hadoop and scala on my laptop. And the installation spent a lot of time. On the other hand, when I using AWS EMR, I only press several buttons and the whole environment is ready to go.\
+I had set up Hadoop and scala on my laptop. And the installation spent a lot of time. On the other hand, when I using AWS EMR, I only press several buttons and the whole environment is ready to go.
+
 __2. Scaling easily:__\
 In this project, I resize the instances effortlessly. This scaling feature is really useful. Especially on handling real-time huge datasets.
 
